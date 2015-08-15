@@ -1,17 +1,17 @@
 # Python-Study
 ```
 
-directory config
+**directory config**
 git init
 
-file add
+**file add**
 git add README.md
 
 
-local commit
+**local commit**
 git commit -m "first commit" [File name]
 
-remote Config
+##Remote Config##
 git remote add origin git@github.com:youwins/Python-Study.git
 
 remote commit
