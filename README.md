@@ -15,7 +15,7 @@ git add README.md
 git commit -m "first commit" [File name]
 ```
 
-##Remote Config
+###Remote Config
 ```
 git remote add origin git@github.com:youwins/Python-Study.git
 ```
