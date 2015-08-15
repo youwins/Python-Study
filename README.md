@@ -1,7 +1,7 @@
 # Python-Study
 
 
-**directory config**
+**Directory Config**
 ```
 git init
 ```
@@ -33,3 +33,6 @@ default editor config
 git config --global core.editor vim
 
 ```
+
+
+test
